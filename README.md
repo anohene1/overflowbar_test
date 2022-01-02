@@ -2,6 +2,18 @@
 
 A flutter project to play around with the overflow bar widget for responsive design
 
+## Screenshots
+<table>
+    <tr>
+        <td>
+            <img src="./screenshots/1.png">
+        </td>
+        <td>
+            <img src="./screenshots/2.png">
+        </td>
+    </tr>
+</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
